@@ -1,7 +1,7 @@
 {
-	"name": "discord-bot-client",
+	"name": "iajs-discord-bot-login",
 	"version": "3.1.0",
-	"description": "Discord Bot Client - login into discord with a bot token",
+	"description": "IAJ's Discord Bot Client - login into discord with a bot token",
 	"main": "index.js",
 	"scripts": {
 		"build": "webpack --progress --colors --watch",
@@ -9,7 +9,7 @@
 		"electron": "electron electron/electron.js"
 	},
 	"keywords": [],
-	"author": "Flam3rboy",
+	"author": "IAJ",
 	"license": "ISC",
 	"dependencies": {
 		"express": "^4.17.1"
